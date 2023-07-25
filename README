@@ -1,0 +1,4 @@
+source: https://www.geeksforgeeks.org/dagger-hilt-in-android-with-example/
+
+in CryptoRepoImpl, the first image, the image for BitCoin doesn't load, causing the whole list to go
+blank. Otherwise all other images can load and the app works even though no images are shown.
